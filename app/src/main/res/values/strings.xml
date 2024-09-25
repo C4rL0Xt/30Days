@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">30 Days of Wellness</string>
+    <string name="dia1">Day 1</string>
+    <string name="sugerencia1">Disfruta de un paseo en bicicleta</string>
+    <string name="descripcion1">Toma tu bicicleta y sal a dar un paseo de al menos 30 minutos. El ciclismo es una excelente forma de ejercicio cardiovascular que también te permite explorar tu entorno.</string>
+    <string name="dia2">Day 2</string>
+    <string name="sugerencia2">Bebe 8 vasos de agua</string>
+    <string name="descripcion2">Establece el hábito de beber agua de manera consistente a lo largo del día. Comienza tu mañana con un vaso de agua para rehidratarte después del sueño nocturno. Mantén una botella de agua reutilizable contigo y fija recordatorios para beber cada hora.</string>
+    <string name="dia3">Day 3</string>
+    <string name="sugerencia3">Lee un libro</string>
+    <string name="descripcion3">Establece el hábito de la lectura, ayuda a fortalezer tus conocimientos y aprender palabras nuevas. Es una buena forma de mejorar la memoria</string>
+</resources>
